@@ -4,7 +4,7 @@ An python based project witch will give you the ability to control you're pc wit
 Requirments :
 you will need both Mediapipe and OpenCV installed on you're hardware 
 you will also need the 3.10 version of python beacause its the last version supported by Mediapipe
-an x86 or x64 based enviroment
+and x86 or x64 based system
 
 to run the file you have to to the following steps :
 *if you have VS studio you can launch it from here or use the cmd that i will explain here how to :                                                                       
