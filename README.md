@@ -12,7 +12,7 @@ to run the file you have to to the following steps :
 2- you will go to the repo where is stocked the file and type cmd just like that 
 ![image](https://github.com/user-attachments/assets/c3996cc0-7aba-45f1-96e2-e23273aab017)
 3- you will have the cmd open and then type this : python "Handgesture detection.py"
-![image](https://github.com/user-attachments/assets/90b5f703-f8c8-4502-bb87-315305097559)
+![image](https://github.com/user-attachments/assets/90b5f703-f8c8-4502-bb87-315305097559)           
 4- enjoy
 
 
