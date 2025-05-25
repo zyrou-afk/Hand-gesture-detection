@@ -8,7 +8,7 @@ an x86 or x64 based enviroment
 
 to run the file you have to to the following steps :
 *if you have VS studio you can launch it from here or use the cmd that i will explain here how to :
-1- you will have to install python and enable the path for the system to recognize it 
+1- you will have to install python and enable the path for the system to recognize it                                                                   
 2- you will go to the repo where is stocked the file and type cmd just like that 
 ![image](https://github.com/user-attachments/assets/c3996cc0-7aba-45f1-96e2-e23273aab017)
 3- you will have the cmd open and then type this : python "Handgesture detection.py"
